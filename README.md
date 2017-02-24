@@ -4,7 +4,7 @@
 
 利用React框架完成的Todo应用。
 
-[Live Demo Here](https://byuzhang.github.io/todo/)
+[Live Demo Here](https://byuzhang.github.io/todo/) or [Here](http://byuzhang-todo.surge.sh/)
 
 ### 主要工具:
 
@@ -19,4 +19,4 @@
 3. `npm install`
 4. `npm start`
 
-也可点击[这里](https://byuzhang.github.io/todo/)直接查看。
+也可点击[这里](https://byuzhang.github.io/todo/)或[这里](http://byuzhang-todo.surge.sh/)直接查看。
