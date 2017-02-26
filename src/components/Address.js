@@ -6,12 +6,12 @@ const Address = (props) => {
     <div>
       <Row bsClass="row address">
         <Col md={6} mdOffset={3} mdPush={3}>
-          Created by <a href="https://byuzhang.github.io/me/" target="_blank">Bingyu Zhang</a>
+          Created by <a href="https://icyfish.github.io/" target="_blank">Bingyu Zhang</a>
         </Col>
       </Row>
       <Row bsClass="row address">
         <Col md={6} mdOffset={3} mdPush={3}>
-          Powered by <a href="https://github.com/byuzhang/todo/" target="_blank">Todo</a>
+          Powered by <a href="https://github.com/icyfish/todo/" target="_blank">Todo</a>
         </Col>
       </Row>
     </div>
